@@ -3,15 +3,14 @@ A process which reminds drinking water regularly by LINE application and automat
 
 ---
 ## Demo video:
-
-https://drive.google.com/file/d/1VVBxfNuFTtg6hjWFq6CGRUjIahW3RCa8/view?usp=sharing
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://drive.google.com/file/d/1VVBxfNuFTtg6hjWFq6CGRUjIahW3RCa8/view?usp=sharing)
 
 ## Highlight:
 * LINE application reminds drinking water regularly
-    * ![LINE UI](https://drive.google.com/file/d/1C_vR2_AjIEtIojKMx7W-ZAhgw_FIgIo3/view?usp=sharing)
+    * ![LINE UI](https://drive.google.com/uc?export=view&id=1C_vR2_AjIEtIojKMx7W-ZAhgw_FIgIo3)
 * Detects, records the amount of water you drink automatically
 * Beautiful manual recording UI
-    * ![manual recording UI](https://drive.google.com/file/d/1Inp320YorAmIHLz7QB--ZAZwF4Dn638S/view?usp=sharing)
+    * ![manual recording UI](https://drive.google.com/uc?export=view&id=1Inp320YorAmIHLz7QB--ZAZwF4Dn638S)
 * Drinking record in Google Sheet automatically
 
 ---
